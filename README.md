@@ -22,3 +22,6 @@ This project was built to demonstrate core computer science fundamentals, includ
 2. Compile the C source file using GCC (or your preferred C compiler):
    ```bash
    gcc greenchainupdated.c -o greenchain
+
+
+This project was originally engineered in local development environments during late 2025. It was migrated to GitHub in May 2026 for centralized version control and portfolio deployment.
